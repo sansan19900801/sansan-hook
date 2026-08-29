@@ -1,6 +1,7 @@
 ---
 name: sansan-hook
 description: 诊断短视频开头的问题并生成优化方案。用户要求修改开头、提高开场吸引力或降低开头流失时使用。
+version: 1.0.1
 ---
 
 # sansan-hook：短视频开头优化
@@ -304,3 +305,10 @@ description: 诊断短视频开头的问题并生成优化方案。用户要求�
 ---
 
 完成当前任务后直接结束。
+
+## 作者与支持
+
+- 作者：sansan（[GitHub 主页](https://github.com/sansan19900801)）
+- 如需加入付费答疑群，可扫码或打开[答疑群说明](https://mp.weixin.qq.com/s/3wporFEz1cGNWslmZsgPKw)
+
+![付费答疑群二维码](https://raw.githubusercontent.com/sansan19900801/sansan-hook/main/assets/support-qr.jpg)
